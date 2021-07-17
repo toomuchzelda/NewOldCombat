@@ -1,0 +1,10 @@
+name: TestingNew
+main: me.toomuchzelda.testingnew.TestingNew
+version: 2
+api-version: 1.16
+depend: [ProtocolLib]
+commands:
+ knockback:
+  description: kb stuff
+  aliases: kb
+  usage: /<command> [debug]
